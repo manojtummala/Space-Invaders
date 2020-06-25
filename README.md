@@ -85,7 +85,7 @@ for i in range(number_of_enemies):
 enemy_start_x = -200
 enemy_start_y = 250
 ```
-do as follows to create rows of enimie ships:
+do as follows to create rows of enemy ships:
 ```bash
   x = enemy_start_x + (50 * enemy_number)
 	y = enemy_start_y
