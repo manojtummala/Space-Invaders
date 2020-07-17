@@ -18,7 +18,7 @@ We will be using turtle to create all the characters and also for the borders fo
 import turtle
 import os
 ```
-start creating the windoww for the game to pop up and the borders for it.
+start creating the window for the game to pop up and the borders for it.
 and for the game to stay there and not to dissapear use:
 ```bash
 delay = input("press enter to terminate...")
